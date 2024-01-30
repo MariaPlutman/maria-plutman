@@ -1,5 +1,5 @@
 ## Hey 👋, This is Maria Plutman
-[![Linkedin Badge](https://www.linkedin.com/in/maria-plutman-351aa6169/)  [![Github Badge](https://img.shields.io/badge/-MariaPlutman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MariaPlutman/)](https://www.github.com/MariaPlutman/) <p align='left'>🔍 **Junior Data Analyst | Analytics Enthusiast**
+[![Github Badge](https://img.shields.io/badge/-MariaPlutman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MariaPlutman/)](https://www.github.com/MariaPlutman/) <p align='left'>🔍 **Junior Data Analyst | Analytics Enthusiast**
 
 Diligent and detail-oriented Junior Data Analyst with a passion for transforming raw data into actionable insights. Proficient in data analysis, visualization, and statistical modeling. Eager to apply academic knowledge in a practical, real-world setting. Excel in extracting meaningful patterns from complex datasets and adept at using tools such as Python, SQL, and Excel. Committed to contributing analytical expertise to drive data-driven decision-making.
 
